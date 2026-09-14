@@ -4,3 +4,15 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Haris Ardian Rmadhana
 NPM  : 2413020061
+
+## Tujuan Repository
+Repository ini dibuat untuk belajar dasar penggunaan Git dan GitHub.
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
